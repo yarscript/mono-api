@@ -1,0 +1,19 @@
+{
+    "name": "yarscript/mono-php",
+    "description": "Mono API php sdk",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/yarscript/mono-php",
+    "autoload": {
+        "psr-4": {
+            "Yarscript\\MonoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yarscript",
+            "email": "yar.yason@gmail.com"
+        }
+    ],
+    "require": {}
+}
